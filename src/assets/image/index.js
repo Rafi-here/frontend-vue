@@ -8,3 +8,5 @@ export { default as logo2 } from '@/assets/image/logo2.png'
 export { default as logo3 } from '@/assets/image/logo3.png'
 export { default as logo4 } from '@/assets/image/logo4.png'
 export { default as logo5 } from '@/assets/image/logo5.png'
+
+export { default as logoHeader } from '@/assets/image/Furnique.png'

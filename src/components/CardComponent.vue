@@ -4,7 +4,7 @@
       <img :src="gambar" alt="gambar5" class="object-cover w-72 h-80 p-4" />
 
       <div class="flex justify-center py-5 space-x-2">
-        <Cart />
+        <Cart class="text-orange-600" />
         <h1 class="text-orange-600">Add cart</h1>
       </div>
     </div>
