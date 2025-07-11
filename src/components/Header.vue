@@ -10,7 +10,7 @@
       <h1 class="text-xl"><a href="#card">Product</a></h1>
       <h1 class="text-xl"><a href="#services">Services</a></h1>
       <h1 class="text-xl"><a href="#gallery">Article</a></h1>
-      <h1 class="text-xl"><a href="#about">About Us</a></h1>
+      <h1 class="text-xl"><a href="#gallery">About Us</a></h1>
     </div>
 
     <div id="user" class="flex space-x-4">
