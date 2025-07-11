@@ -2,7 +2,7 @@
   <div id="footer" class="bg-indigo-600 py-20 px-24">
     <div class="flex justify-between">
       <div class="space-y-4">
-        <h1 class="font-extrabold text-6xl text-white">LOGO</h1>
+        <h1 class="font-extrabold text-6xl text-white">Piw Coders</h1>
         <h2 class="w-56 text-white text-lg">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit.
         </h2>
@@ -46,7 +46,7 @@
     </div>
 
     <div class="border-t border-white mt-20">
-      <h1 class="text-white mt-10">© 2023 by Logo Furniture. All rights reserved.</h1>
+      <h1 class="text-white mt-10">© 2023 by Piw Coders. All rights reserved.</h1>
     </div>
   </div>
 </template>
